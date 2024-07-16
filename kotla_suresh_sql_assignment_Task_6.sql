@@ -1,3 +1,11 @@
+/************************************************************============ Wallmart Database =========== *******************************************************************
+ -- Database created by: Kotla Suresh
+ -- Database Name: electoralbonddata
+ -- Author of Queries : Kotla Suresh
+ -- Organization : Careerpedia
+ -- Date : 18-April-2024
+
+
 create database wallmart;
 use wallmart;
 show tables;
